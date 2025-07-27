@@ -1,5 +1,11 @@
-.nav1
-{
-  background-color: yellow
-}
 
+
+#upbutton {
+    position: absolute;
+    top: 7%;
+    left: 88%;
+    transform: translate(-20%, -70%);
+  }
+#updatelist{
+    color:white 
+}
